@@ -1,0 +1,4 @@
+*.pickle
+*.tar.gz
+udacity/notMNIST_small
+udacity/notMNIST_large
